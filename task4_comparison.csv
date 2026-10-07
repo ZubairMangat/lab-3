@@ -1,0 +1,3 @@
+Model,Latency ms (mean),Latency ms (std),Detections,Distinct classes,Avg confidence,Class counts
+yolov8n.pt,170.9,38.7,2,1,0.338,{'potted plant': 2}
+yolov8m.pt,863.8,100.5,5,2,0.44,"{'car': 1, 'potted plant': 4}"
